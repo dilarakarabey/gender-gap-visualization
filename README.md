@@ -1,0 +1,1 @@
+Data visualization project using matplotlib and data provided by the US Department of Education Statistics. Data has been cleaned by Randal Olson, project mainly focuses on visualizing the gender gap.
